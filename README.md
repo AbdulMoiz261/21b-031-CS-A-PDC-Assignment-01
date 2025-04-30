@@ -18,6 +18,3 @@ A Python-based project to simulate student fee records using synthetic data, exp
 - Pandas
 - Collections
 - ThreadPoolExecutor (for parallelism)
-
-## 🗂️ File Structure
-
